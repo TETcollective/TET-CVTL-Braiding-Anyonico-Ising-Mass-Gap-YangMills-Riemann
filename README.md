@@ -1,6 +1,8 @@
 # TET-CVTL-Braiding-Anyonico-Ising-Mass-Gap-YangMills-Riemann
 Framework TET-CVTL: Nodo Trifoglio Eterno (Lk=6) e braiding anyonico Ising come origine unificata del mass gap Yang–Mills SU(3) e Ipotesi di Riemann. Vuoto primordiale topologico-entangled. Independent research by Simon Soliman / Tet Collective (2026).
 
+https://doi.org/10.5281/zenodo.18440777
+
 
 # TET-CVTL: Framework Topologico del Vuoto Primordiale con Nodo Trifoglio Eterno (Lk = 6)  
 e Braiding Anyonico Ising come Origine Unificata del Mass Gap di Yang–Mills e della Linea Critica di Riemann
